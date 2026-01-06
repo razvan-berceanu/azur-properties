@@ -1,0 +1,8 @@
+export const LAYOUT_BREAKPOINT_MOBILE = 1023;
+export const LAYOUT_BREAKPOINT_TABLET = 1024;
+export const LAYOUT_BREAKPOINT_DESKTOP = 1440;
+export const SIZES = [8, 20, 6, 24];
+export const PADDING_SIZES = [12, 24, 30, 40];
+export const NAV_SIZES = [70, 80, 80, 80];
+export const GUTTERS = [14, 24, 36, 44];
+export const SECONDARY_HEIGHT_RATIO = 0.78
